@@ -1,3 +1,6 @@
+There are 3 files - two of them uses AWS SES to send emails to users and on use AWS SNS to send email
+(With SES sended emails are personal).
+
 # How to Get the list of IAM users whose access keys are older than 90 days and send the email?
 list of IAM users whose access keys are older than 90 days and send the email
 

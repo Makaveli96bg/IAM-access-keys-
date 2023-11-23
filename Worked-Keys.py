@@ -1,3 +1,5 @@
+#uses SES to send emails
+
 import boto3
 from datetime import date, timedelta
 from botocore.exceptions import ClientError

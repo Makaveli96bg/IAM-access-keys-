@@ -37,3 +37,12 @@ Request ID
 
 
 you should get the email for the expired user
+
+
+============================================================
+
+
+
+==========================================================================
+
+For scrypth IAM_access_keys_notification_v3 - Use AWS Lambda , create EventBridge Schedule with targer Labmda
